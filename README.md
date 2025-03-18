@@ -1,10 +1,10 @@
-#Demo 
+# Demo 
 ## Description: By this demo API project names dmoney, we can create and manipulate several types of user role like Agent, Customer and Merchant
 
 ## Technology I used:
--Postman
--Newman
--Report: newman-heml-extra
+- Postman
+- Newman
+- Report: newman-heml-extra
 
 ## How to run?
 -Clone this project
