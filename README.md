@@ -12,10 +12,10 @@
 - Hit following command:
 - ``` npm i ```
 - ``` npm test ```
-- -Report will be generated in Reports folder!
+- Report will be generated in Reports folder!
 
 - ## Test Report
-- ![image](https://github.com/user-attachments/assets/91fb18ff-7c15-4ccd-bf70-2d1035c245af)
+ ![image](https://github.com/user-attachments/assets/91fb18ff-7c15-4ccd-bf70-2d1035c245af)
 
 - ## Test Case and Bug Report file:
 - https://docs.google.com/document/d/1Xzu9J0QcHvpCzwhYWAR_tCkcGVl1zO5KOAq0HPBDWX8/edit?usp=sharing
